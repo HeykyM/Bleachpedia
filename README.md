@@ -7,6 +7,7 @@ O Bleachpédia é construído de uma forma de fácil entendimento, para que o us
 Nós lançamos o Bleachpédia para apoiar a animação e a comunidade, e também para que os amantes e aqueles que ainda não conhecem Bleach, possam se aprofundar ainda mais na história e nos personagens.
 
 Programas Utilizados
+
 HTML, CSS e JavaScript
 
 Não conhece Bleach? Confira o nosso site https://bleachpedia.com.br

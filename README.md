@@ -20,6 +20,6 @@ Canais para contato:
 
 @Bleachpedia no Twitter
 
-@Bleachpedia no Instagram
+@bleachpediaoficial no Instagram
 
 @Bleachpedia no Facebook 

@@ -1,6 +1,6 @@
 <h1 align="center"><img src='https://img.tapimg.net/market/images/c07da8d5da702738d6e08dd7b7d6385f.jpg/appicon' width='140' align='left'> Bleachpédia </h1>
 
-O <p>Bleachpédia</p> é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
+O <p>{c:red>Bleachpédia{/c}</p> é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 
 O Bleachpédia é construído de uma forma de fácil entendimento, para que o usuário possa encontrar facilmente todo tipo de informações sobre Bleach, como história, personagens, anime, mangá, novel e jogos.
 

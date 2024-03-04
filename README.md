@@ -16,7 +16,9 @@ Klab games
 
 <h3>Linguagens de Programação</h3>
 
-HTML, CSS e JavaScript
+<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg' width='40'>
+<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CSS.svg' width='40'>
+<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/JavaScript.svg' width='40'>
 
 Não conhece Bleach? Confira o nosso site https://bleachpedia.com.br
 

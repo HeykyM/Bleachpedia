@@ -22,7 +22,7 @@ Não conhece Bleach? Confira a nossa página https://bleachpedia.com.br
 
 Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
-Bankai!
+Bankai!!!!
 
 <h3>Canais para contato:</h3>
 

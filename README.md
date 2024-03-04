@@ -27,7 +27,7 @@ Bankai!
 <h3>Canais para contato:</h3>
 This site was built using [GitHub Pages](https://pages.github.com/)
 @Bleachpedia no Twitter
-<a url='https://instagram.com.br'><img src='https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/' width='40'></a>
+<a href='https://instagram.com.br'><img src='https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/' width='40'></a>
 @bleachpediaoficial no Instagram
 
 @Bleachpedia no Facebook 

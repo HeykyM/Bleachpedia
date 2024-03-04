@@ -10,7 +10,11 @@ Créditos as imagens utilizadas
 
 Klab games
 
-Programas Utilizados
+Ferramentas Utilizadas
+
+Visual Studio Code
+
+Linguagens de Programação
 
 HTML, CSS e JavaScript
 

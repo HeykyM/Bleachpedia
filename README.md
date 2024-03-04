@@ -34,8 +34,8 @@ Bankai!
 
 <h3>Integrantes do Grupo:</h3>
 
--Heyky Martins Moura
+- Heyky Martins Moura
 
--Matheus Arlindo Silva de Jesus
+- Matheus Arlindo Silva de Jesus
 
--Miguel Galdino Silva
+- Miguel Galdino Silva

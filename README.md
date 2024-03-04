@@ -36,3 +36,5 @@ Bankai!
 - Matheus Arlindo Silva de Jesus (Back-end)
 
 - Miguel Galdino Silva (Conteúdo)
+
+<kbd>{c:yellow}Essa é uma frase com fundo escuro e texto amarelo{/c}</kbd>

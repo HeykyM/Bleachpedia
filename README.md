@@ -39,4 +39,4 @@ Bankai!
 
 - Miguel Galdino Silva (Conteúdo)
 
-| [<img loading="lazy" src="" width=115><br><sub>Heyky Martins Moura</sub>(https://github.com/HeykyM) |
+| [<img loading="lazy" src="https://scontent.fcgh55-1.fna.fbcdn.net/v/t39.30808-6/315832388_3438328503068408_7814415252066949627_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFOQDzaSROEZA54H1k9OGcsE9HS0z7p_NIT0dLTPun80sLxHaqISAsKw5QpB2UrMRAF9VjCTMr9Vxe6Fq7SNtOb&_nc_ohc=mLCcjVXFI9UAX-biEw_&_nc_ht=scontent.fcgh55-1.fna&oh=00_AfA-hUVy9eHaPqx8YFznSSL5tN5TpQ122LSg-7DqW8HdCw&oe=65EB7503" width=115><br><sub>Heyky Martins Moura</sub>(https://github.com/HeykyM) |

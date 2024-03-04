@@ -1,4 +1,4 @@
-<h1 align="center"> Bleachpédia </h1>
+<h1 align="center" color="blue"> Bleachpédia </h1>
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 

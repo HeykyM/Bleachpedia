@@ -29,6 +29,9 @@ Canais para contato:
 @Bleachpedia no Facebook 
 
 Integrantes do Grupo:
+
 Heyky Martins Moura
+
 Matheus Arlindo Silva de Jesus
+
 Miguel Galdino Silva

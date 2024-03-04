@@ -16,7 +16,7 @@ Klab games
 
 <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg' width='40'>
 
-<h3>Linguagens de Programação</h3>
+<h3>Linguagens de Programação Utilizadas</h3>
 
 <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg' width='40'> <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CSS.svg' width='40'> <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/JavaScript.svg' width='40'>
 
@@ -31,10 +31,12 @@ Bankai!
 <a href='https://www.facebook.com/groups/938951077409907'><img src='https://static.vecteezy.com/system/resources/previews/016/716/447/original/facebook-icon-free-png.png' width='40'></a>
 <a href='https://www.instagram.com/bleachpediaoficial/?next=%2F'><img src='https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/' width='40'></a> <a href='https://twitter.com/BleachpediaOfc'><img src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png' width='40'></a>
 
-<h3>Integrantes do Grupo:</h3>
+<h3>Desenvolvedores do Projeto</h3>
 
 - Heyky Martins Moura (Front-end)
 
 - Matheus Arlindo Silva de Jesus (Back-end)
 
 - Miguel Galdino Silva (Conteúdo)
+| [<img loading="lazy" src="(https://github.com/HeykyM)" width=115><br><sub>Heyky Martins Moura</sub>](https://github.com/HeykyM) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |

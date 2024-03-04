@@ -38,5 +38,5 @@ Bankai!
 - Matheus Arlindo Silva de Jesus (Back-end)
 
 - Miguel Galdino Silva (Conteúdo)
-| [<img loading="lazy" src="(https://github.com/HeykyM)" width=115><br><sub>Heyky Martins Moura</sub>](https://github.com/HeykyM) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/159034965?s=400&v=4" width=115><br><sub>Heyky Martins Moura</sub>](https://github.com/HeykyM) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
 | :---: | :---: | :---: |

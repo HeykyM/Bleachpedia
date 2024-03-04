@@ -13,7 +13,7 @@ Klab games
 <h3>Ferramentas Utilizadas</h3>
 
 ![image](https://github.com/HeykyM/Bleachpedia/assets/159034965/74b68c42-3207-4021-8a53-de6c61de2b99 = 250x250)
-<img src='(https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg)' width='25'>
+<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg' width='25'>
 
 <h3>Linguagens de Programação</h3>
 

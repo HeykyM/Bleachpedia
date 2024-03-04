@@ -1,6 +1,6 @@
 <h1 align="center"><img src='https://img.tapimg.net/market/images/c07da8d5da702738d6e08dd7b7d6385f.jpg/appicon' width='140' align='left'> Bleachpédia </h1>
 
-![badge](https://img.shields.io/github/go-mod/go-version/user%20version/repo%201.0)
+![version]([https://img.shields.io/github/go-mod/go-version/user%20version/repo%201.0](https://img.shields.io/badge/version-1.0-green))
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 

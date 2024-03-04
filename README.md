@@ -12,7 +12,8 @@ Klab games
 
 <h3>Ferramentas Utilizadas</h3>
 
-Visual Studio Code
+![image](https://github.com/HeykyM/Bleachpedia/assets/159034965/b7fa1587-2d8b-48dd-a027-de8d9b403016)
+
 
 <h3>Linguagens de Programação</h3>
 
@@ -32,7 +33,7 @@ Bankai!
 
 @Bleachpedia no Facebook 
 
-<h3>Integrantes do Grupo:</h3>
+💻<h3>Integrantes do Grupo:</h3>💻
 
 Heyky Martins Moura
 

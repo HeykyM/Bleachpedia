@@ -31,8 +31,8 @@ Bankai!
 
 <h3>Integrantes do Grupo:</h3>
 
-- Heyky Martins Moura
+- Heyky Martins Moura (Front-end)
 
-- Matheus Arlindo Silva de Jesus
+- Matheus Arlindo Silva de Jesus (Back-end)
 
-- Miguel Galdino Silva
+- Miguel Galdino Silva (Conteúdo)

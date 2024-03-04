@@ -40,3 +40,5 @@ Matheus Arlindo Silva de Jesus
 
 Miguel Galdino Silva
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+

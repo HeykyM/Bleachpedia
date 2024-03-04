@@ -10,11 +10,11 @@ Nós lançamos o Bleachpédia para apoiar a animação e a comunidade, e também
 
 Klab games
 
-Ferramentas Utilizadas
+<h3>Ferramentas Utilizadas</h3>
 
 Visual Studio Code
 
-Linguagens de Programação
+<h3>Linguagens de Programação</h3>
 
 HTML, CSS e JavaScript
 
@@ -24,7 +24,7 @@ Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
 Bankai!
 
-Canais para contato:
+<h3>Canais para contato:</h3>
 
 @Bleachpedia no Twitter
 
@@ -32,7 +32,7 @@ Canais para contato:
 
 @Bleachpedia no Facebook 
 
-Integrantes do Grupo:
+<h3>Integrantes do Grupo:</h3>
 
 Heyky Martins Moura
 

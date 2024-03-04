@@ -12,8 +12,7 @@ Klab games
 
 <h3>Ferramentas Utilizadas</h3>
 
-![image](https://github.com/HeykyM/Bleachpedia/assets/159034965/b7fa1587-2d8b-48dd-a027-de8d9b403016)
-
+![image](https://github.com/HeykyM/Bleachpedia/assets/159034965/74b68c42-3207-4021-8a53-de6c61de2b99)
 
 <h3>Linguagens de Programação</h3>
 

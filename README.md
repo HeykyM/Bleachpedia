@@ -1,4 +1,4 @@
-<h1 align="center" class="titulo"> Bleachpédia </h1>
+<h1 align="center"> Bleachpédia </h1>
 
 O Bleachpédia é uma página web com o intuito de passar todo tipo de informações sobre a animação japonesa, Bleach. 
 
@@ -32,7 +32,7 @@ Bankai!
 
 @Bleachpedia no Facebook 
 
-💻<h3>Integrantes do Grupo:</h3>💻
+<h3>Integrantes do Grupo:</h3>
 
 Heyky Martins Moura
 
@@ -40,6 +40,3 @@ Matheus Arlindo Silva de Jesus
 
 Miguel Galdino Silva
 
-.titulo {
-  color="blue";
-  }

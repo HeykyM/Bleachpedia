@@ -28,7 +28,7 @@ Canais para contato:
 
 @Bleachpedia no Facebook 
 
-Integrantes do Tricode:
+Integrantes do Grupo:
 
 Heyky Martins Moura
 

@@ -26,11 +26,8 @@ Bankai!
 
 <h3>Canais para contato:</h3>
 
-<a href='https://www.facebook.com/groups/938951077409907'><img src='https://static.vecteezy.com/system/resources/previews/016/716/447/original/facebook-icon-free-png.png' width='40'></a>
+<a href='https://www.facebook.com/groups/938951077409907' target='blank'><img src='https://static.vecteezy.com/system/resources/previews/016/716/447/original/facebook-icon-free-png.png' width='40'></a>
 <a href='https://www.instagram.com/bleachpediaoficial/?next=%2F'><img src='https://imagepng.org/instagram-icone-icon/instagram-icone-icon-1/' width='40'></a> <a href='https://twitter.com/BleachpediaOfc'><img src='https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png' width='40'></a>
-@bleachpediaoficial no Instagram
-
-@Bleachpedia no Facebook 
 
 <h3>Integrantes do Grupo:</h3>
 

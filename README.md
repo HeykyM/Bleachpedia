@@ -33,5 +33,5 @@ Bankai!
 
 <h3>Desenvolvedores do Projeto</h3>
 
-| [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Heyky Martins Moura</sub>](https://github.com/HeykyM)<br>Back End|  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Matheus Arlindo Silva de jesus</sub>](https://github.com/matheusarlindo-aluno)<br>Back End End |  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Miguel Galdino Silva</sub>](https://github.com)<br>Front End |
+| [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Heyky Martins Moura</sub>](https://github.com/HeykyM)<br>Back End|  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Matheus Arlindo Silva de jesus</sub>](https://github.com/matheusarlindo-aluno)<br>Back End |  [<img loading="lazy" src="https://visaohospitaldeolhos.com.br/wp-content/uploads/2022/02/MEDICO-SEM-FOTO.jpg" width=115><br><sub>Miguel Galdino Silva</sub>](https://github.com)<br>Front End |
 | :---: | :---: | :---: |

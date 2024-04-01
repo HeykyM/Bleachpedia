@@ -14,9 +14,7 @@ Klab games
 
 <h3>Ferramentas Utilizadas</h3>
 
-<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg' width='40'>
-<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width='40'>
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png' width='40'>
+<img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg' width='40'><img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width='40'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png' width='40'>
 
 <h3>Linguagens de Programação Utilizadas</h3>
 

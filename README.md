@@ -16,7 +16,7 @@ Nós lançamos o Bleachpédia para apoiar a animação e a comunidade, e também
 
 <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg' width='40'> <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CSS.svg' width='40'> <img src='https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/JavaScript.svg' width='40'>
 
-Não conhece Bleach? Confira a nossa página https://heykym.github.io/Bleachpedia/
+Não conhece Bleach? Confira a nossa página [https://heykym.github.io/Bleachpedia/](https://github.com/HeykyM/Bleachpedia/blob/802274a27c2dda5edccdc22eedbbca91c1b8c361/bleachpedia.html)
 
 Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 

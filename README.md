@@ -20,8 +20,6 @@ Não conhece Bleach? Confira a nossa página https://heykym.github.io/testando/
 
 Faltou alguma informação? nos ajude a melhorar e trazer mais informações
 
-Bankai!
-
 <h3>Canais para contato:</h3>
 
 <a href='https://www.facebook.com/groups/938951077409907'><img src='https://static.vecteezy.com/system/resources/previews/016/716/447/original/facebook-icon-free-png.png' width='40'></a>

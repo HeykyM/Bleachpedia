@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,173 +7,140 @@
     list-style: none;
     text-decoration: none;
 }
-
-body {
+body{
     background: url(img/background.jpg);
-    background-repeat: none;
     background-size: cover;
+    background-repeat: no-repeat;
     overflow: hidden;
-    width: 100%;
-    min-height: 100vh;
 }
-
-header {
+header{
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding: 25px 48px;
 }
-
-header .logo {
+.logoBleach{
     width: 200px;
-    align-items: top;
 }
-
-.navigation ul {
+.navigation ul{
     display: flex;
     align-items: center;
     gap: 40px;
 }
-
-.navigation ul li a {
-    color: aliceblue;
+.navigation ul li a{
+    color: #fff;
     font-size: 18px;
     padding-bottom: 5px;
     border-bottom: 2px solid transparent;
     transition: all .6s;
 }
-
-.navigation ul li a:hover {
-    border-bottom: 2px solid blue;
+.navigation li:hover a {
+    color:#0f79af;
 }
 
-.navigation .perfil {
-    width: 60px;
+.navigation .search{
+    width: 22px;
+    cursor: pointer;
+    filter: invert(1);
+}
+.navigation .perfil{
+    width: 40px;
     cursor: pointer;
 }
 
-.dropdown-menu {
-    position: absolute;
-    box-shadow: 0 0 4px black;
-    display: none;
-    padding: 20px;
-}
-.dropdown-menu a {
-    display: block;
-    color: aliceblue;
-}
+/*Main*/
 
-.dropdown:hover .dropdown-menu {
-    display: block;
-    color: #138ecc;
-}
-
-main {
+main{
     display: flex;
     align-items: center;
     justify-content: center;
     max-width: 50em;
     margin-top: 1.5em;
 }
-
-main section {
+main section{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     margin-left: 2.5em;
 }
-
-main section .logob {
+main section .logo{
     width: 35em;
     margin: 3em 0;
 }
-
-main section .btn-box {
+main section .btn-box{
     display: flex;
-    align-items: center;
     gap: 20px;
 }
-
-.btn-box .btn {
+.btn-box .btn{
     padding: 20px 45px;
     background: #425265;
-    color: #fff;
     margin-bottom: 2em;
+    color: #fff;
     border-bottom: 2px solid #fff;
     transition: all .3s;
 }
-
-.btn-box .btn:hover {
+.btn-box .btn:hover{
     background: #2d3846;
 }
-
-.btn-box .btn:focus {
+.btn-box .btn:focus{
     background: #2d3846;
 }
-
-main section .text {
-    color: aliceblue;
+main section .text{
+    color: #fff;
     line-height: 22px;
 }
-
-.redes1 {
-    width: 35px;
-    height: 35px;
-    left: 1700px;
-    position: absolute;
-    bottom: 95px;
-    display: inline-block;
-    transition: 0.3s ease;
-}
-
-.redes2 {
-    width: 35px;
-    height: 35px;
-    left: 1750px;
-    position: absolute;
-    bottom: 95px;
-    display: inline-block;
-}
-
-.redes3 {
-    width: 35px;
-    height: 35px;
-    left: 1800px;
-    position: absolute;
-    bottom: 95px;
-    display: inline-block;
-}
-
-.media-icons a{
+.btn-box2{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 45px;
+    border-radius: 5px 5px 0 0;
+    margin-top: 2em;
+    font-size: 25px;
     color: #fff;
-    font-size: 1.6em;
-    transition: 0.3s ease;
+    border-bottom: 4px solid #fff;
+    background: #0f79af;
+    transition: all .3s;
 }
-
-.media-icons a:not(:last-child) {
-    margin-bottom: 20px;
+.btn-box2:hover{
+    background: #138ecc;
 }
-
-.media-icons a:hover{
-    transform: scale(1.3);
-    color: #ff0000;
+.btn-box2 .play{
+    width: 1.4em;
+    filter: invert(1);
 }
-
-.media-icons{
-    right: 30px;
+footer .cards{
     display: flex;
-    flex-direction: column;
-    transition: 0.5s ease;
+    flex-flow: row;
+    align-items: center;
+    margin-left: 23em;
+    margin-top: 1.5em;
 }
-
-
-.icon {
-    display: flex;
+.cards .card{
+    height: 180px;
+    max-width: 300px;
+    
+    box-shadow: 12px 0px 32px 2px black;
+    margin-left: -120px;
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+    overflow: hidden;
+}
+.cards .card img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.cards .card:hover{
+    transform: translateY(-16px) rotate(3deg);
+}
+.cards .card:hover ~ .card{
+    transform: translateX(140px);
 }
 
 /*Botão Play*/
 .play{
-    display: inline-flex;
+    display: flex;
     position: absolute;
     bottom: 150px;
     left: 100px;
@@ -186,8 +153,8 @@ main section .text {
     padding: 15px 45px; 
     margin-top: 2em; 
     border-radius: 5px 5px 0 0; 
-    border-bottom: 4px solid aliceblue;
-    font-size: 30px; 
+    border-bottom: 4px solid aliceblue; 
+    font-size: 35px; 
     gap: 15px;
     transition: all .3s;
 }
@@ -197,11 +164,6 @@ main section .text {
     max-width: 50px;
     width: 1.2em;
     filter: invert(1);
-}
-
-.play img{
-    margin-right: 10px;
-    max-width: 40px;
 }
 
 .play:hover {
@@ -246,6 +208,92 @@ main section .text {
     border: 0.1rem solid #fff;
 }
 
-.trailer video{
-    max-width: 90%;
+/*Redes Sociais*/
+.insta {
+    right: 10px;
+    margin: 20px;
+    top: 160px;
 }
+
+.face {
+    right: 10px;
+    margin: 20px;
+    top: 160px;
+}
+
+.twitter {
+    right: 10px;
+    margin: 20px;
+    top: 160px;
+}
+
+.media-icons {
+    z-index: 888;
+    position: absolute;
+    right: 30px;
+    flex-direction: column;
+    transition: 0.5s ease;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 2.5rem;
+    top: 160px;
+  }
+  
+  .item a {
+    text-decoration: none;
+    width: 4.8rem;
+    height: 4.8rem;
+    background-color: #f0f9fe;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+    border: 3px solid #f0f9fe;
+    overflow: hidden;
+  }
+  
+  .item a::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: var(--bg-color);
+    z-index: 0;
+    scale: 1 0;
+    transform-origin: bottom;
+    transition: scale 0.5s ease;
+  }
+  
+  .item:hover a::before {
+    scale: 1 1;
+  }
+  
+  .icon {
+    font-size: 2rem;
+    color: hsl(203, 92%, 8%);
+    transition: 0.5s ease;
+    z-index: 2;
+  }
+  
+  .item a:hover .icon {
+    color: #fff;
+    transform: rotateY(360deg);
+  }
+  
+  .item:nth-child(1) {
+    --bg-color: linear-gradient(to bottom right, #f9ce34, #ee2a7b, #6228d7);
+  }
+
+  .item:nth-child(2) {
+    --bg-color: #3b5998;
+  }
+  .item:nth-child(3) {
+    --bg-color: #000;
+  }
